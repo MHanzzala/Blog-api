@@ -444,21 +444,3 @@ Example request body:
 | :--------------- | :------- | :------------- | :------- |
 | `authentication` | `string` | Your token     | yes      |
 | `id`             | `string` | ID of the post | yes      |
-
-## Feedback
-
-If you have any feedback, please reach out to us at support@inovoteksupport.com
-
-![Logo](https://yt3.ggpht.com/kuG0t4b_bTsNnGHw-FQva380BdNJJylaMeMuXklJggO45T-mKajSCjNv3t2W0CYL-7xEz5N1AJA=s176-c-k-c0x00ffffff-no-rj)
-
-## 🔗 Social Links
-
-[![facebook](https://img.shields.io/badge/facebook-Code?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/inovotekacademy/)
-
-[![youtube](https://img.shields.io/badge/youtube-Code?style=for-the-badge&logo=youtube&logoColor=redk&color=red)](https://www.youtube.com/@inovotek-academy)
-
-[![udemy](https://img.shields.io/badge/udemy-Code?style=for-the-badge&logo=udemy)](https://www.udemy.com/user/emmanuel-tweneboah-2/)
-
-## Author
-
-- [@I-Novotek Academy](https://www.youtube.com/@inovotek-academy)
